@@ -89,7 +89,7 @@ const ProductDetails = ({ product }: ProductDetailsProps) => {
         </ScrollArea>
       </div>
 
-      <Button className="w-[90%] rounded-full absolute bottom-2 left-auto right-auto">Adicionar à sacola</Button>
+      <Button className="w-[85%] rounded-full absolute bottom-2 self-center">Adicionar à sacola</Button>
     </div>
   );
 };
